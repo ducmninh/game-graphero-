@@ -1,0 +1,22 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller / Build
+build/
+*.spec
+
+# Local Player Save Data
+save.json
+
+# Agent & Temp directories
+brain/
+scratch/
+.gemini/
+.idea/
+.vscode/
+
+# Large temporary assets
+temp_sniper.wav
