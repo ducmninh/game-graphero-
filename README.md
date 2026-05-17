@@ -4,7 +4,7 @@ Một tựa game bắn súng hành động 2D góc nhìn từ trên xuống (Top
 <p align="center">
   <img src="assets/sprites/grab_hero_cover.png" alt="Grab Hero Game Banner" width="650px">
   <br>
-  <em>📸 <b>Game Cover / Banner:</b> Hãy chụp một bức ảnh screenshot đẹp nhất từ game hoặc menu rồi lưu đè vào file <code>assets/sprites/grab_hero_cover.png</code> để hiển thị tại đây nhé!</em>
+  <em>📸 <b>Game Cover / Banner:</b> Giao diện bắt đầu và hình ảnh đại diện chính thức của game</em>
 </p>
 
 ---
@@ -88,15 +88,15 @@ Nếu bạn có chỉnh sửa mã nguồn và muốn đóng gói lại thành ap
 
 ## 📸 HÌNH ẢNH TRONG GAME (GAMEPLAY SCREENSHOTS)
 
-*Bạn hãy chụp ảnh màn hình game thực tế của bạn, lưu đè vào các đường dẫn tương ứng dưới đây để README hiển thị thật sinh động nhé:*
+*Hình ảnh thực tế trải nghiệm gameplay vô cùng sống động trong thế giới Grab Hero:*
 
-| 🌌 Giao Diện Menu Chính | 🧟 Chiến Đấu Với Zombie |
+| 🌌 Giao Diện Menu Chính | 🧟 Đại Chiến Boss / Zombie |
 | :---: | :---: |
-| <img src="assets/sprites/screenshot_menu.png" width="350px"><br><em>assets/sprites/screenshot_menu.png</em> | <img src="assets/sprites/screenshot_combat.png" width="350px"><br><em>assets/sprites/screenshot_combat.png</em> |
+| <img src="assets/sprites/screenshot_menu.png" width="350px"><br><em>Giao diện Menu mới mượt mà, trực quan</em> | <img src="assets/sprites/screenshot_combat.png" width="350px"><br><em>Đại chiến cực kịch tính với Đồ Tể Đột Biến</em> |
 
 | 🐕 Giải Cứu Chó Cưng | ⚔️ Quyết Chiến PvP 1v1 |
 | :---: | :---: |
-| <img src="assets/sprites/screenshot_rescue.png" width="350px"><br><em>assets/sprites/screenshot_rescue.png</em> | <img src="assets/sprites/screenshot_pvp.png" width="350px"><br><em>assets/sprites/screenshot_pvp.png</em> |
+| <img src="assets/sprites/screenshot_rescue.png" width="350px"><br><em>Màn chơi Phố Cổ Bỏ Hoang thuần Việt</em> | <img src="assets/sprites/screenshot_pvp.png" width="350px"><br><em>Đấu trường PvP 1v1 sinh tử đầy hấp dẫn</em> |
 
 ---
 
