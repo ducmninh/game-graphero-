@@ -1,0 +1,24 @@
+{
+  "gold": 11465,
+  "upgrades": {
+    "speed": 4,
+    "fire_rate": 2,
+    "damage": 0,
+    "max_hp": 0,
+    "stamina": 1
+  },
+  "owned_guns": [
+    "pistol",
+    "smg",
+    "ar",
+    "sniper"
+  ],
+  "owned_pets": [
+    "eagle",
+    "dog"
+  ],
+  "equipped_pet": "dog",
+  "best_level": 0,
+  "version": 2,
+  "char_type": "shope"
+}

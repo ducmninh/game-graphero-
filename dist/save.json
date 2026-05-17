@@ -1,0 +1,19 @@
+{
+  "gold": 1200,
+  "upgrades": {
+    "speed": 1,
+    "fire_rate": 1,
+    "damage": 1,
+    "max_hp": 1,
+    "stamina": 1
+  },
+  "owned_guns": [
+    "pistol",
+    "ar",
+    "smg"
+  ],
+  "owned_pets": [],
+  "equipped_pet": null,
+  "best_level": 0,
+  "version": 2
+}
